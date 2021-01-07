@@ -17,7 +17,7 @@ My name is Fabien and I'm a sofware developper from France 🇫🇷 !
 
 ### Languages
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyhton&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=777BB4)
