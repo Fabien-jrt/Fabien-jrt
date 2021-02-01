@@ -2,7 +2,7 @@
 
 # Hello everyone! 👋
 
-My name is Fabien and I'm a software developer from France 🇫🇷 !
+My name is Fabien and I'm a computer science student & software developer from France 🇫🇷 !
 
 ## &#x1f4c8; GitHub Stats
 
