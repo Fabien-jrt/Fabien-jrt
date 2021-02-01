@@ -1,6 +1,6 @@
 ![Header](/readme-header.png "Header")
 
-# Hello everybody! 👋
+# Hello everyone! 👋
 
 My name is Fabien and I'm a sofware developper from France 🇫🇷 !
 
