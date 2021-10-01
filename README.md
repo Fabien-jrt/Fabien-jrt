@@ -1,5 +1,3 @@
-![Header](/readme-header.png "Header")
-
 # Hello everyone! 👋
 
 My name is Fabien and I'm a computer science student & software developer from France 🇫🇷 !
