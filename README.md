@@ -1,31 +1,23 @@
-# Hello everyone! 👋
+# Hi everyone! 👋
 
-My name is Fabien and I'm a computer science student & software developer from France 🇫🇷 !
+![Visitors](https://komarev.com/ghpvc/?username=Fabien-jrt&color=85CCFD)
 
-![Fabien's github stats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabien-jrt&layout=compact) 
-Comming soon: no public projects at the moment
--->
+My name is Fabien, I'm a computer science student & developer in France 🇫🇷 !
 
-## Technologies & Tools
-<!-- main color: 2bbc8a -->
-![](https://img.shields.io/badge/OS-MacOS%20&%20Linux-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash%20&%20Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+I'm interested in creating new things, improving the world and the human condition.
 
+## Stats[^stats]
 
-## Frameworks
-![](https://img.shields.io/badge/Php-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=EF4223)
+![Fabien's githubstats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt&count_private=true&include_all_commits=true&show_icons=true&theme=dark&bg_color=3B4252&title_color=85CCFD&text_color=E5E5E5&icon_color=FFF96B&hide_border=true)
 
+## My side projects
 
-## Languages
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+### Home NAS
+- Ubuntu installation and ssh configuration
+- Provisioning using Ansible
 
 
-### Web
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)  
+---
 
+[^stats]: *Please note that this gives an indication on how often I use Github and that this does not reflect the quality of my contributions or the amount of work done*
