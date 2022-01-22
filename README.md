@@ -20,6 +20,7 @@ Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. I
 - `SSH` configuration
 - Provisioning and configuration using `Ansible`
 - Deploying and managing apps using `Docker`
+- Testing using `Vagrant` and `VirtualBox`
 
 ## Latest contributions
 
