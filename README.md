@@ -1,6 +1,6 @@
 # Hi everyone! 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=Fabien-jrt&color=85CCFD)
+![Visitors](https://komarev.com/ghpvc/?username=Fabien-jrt&color=81a1c1)
 
 My name is Fabien, I'm a computer science student & developer in France 🇫🇷 !
 
@@ -8,7 +8,7 @@ I'm interested in creating new things, improving the world and the human conditi
 
 ## Stats[^stats]
 
-![Fabien's githubstats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt&count_private=true&include_all_commits=true&show_icons=true&theme=dark&bg_color=3B4252&title_color=85CCFD&text_color=E5E5E5&icon_color=FFF96B&hide_border=true)
+![Fabien's githubstats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=true)
 
 ## Side projects
 
