@@ -12,6 +12,13 @@ I'm interested in creating new things, improving the world and the human conditi
 
 ## Side projects
 
+### Portfolio website (Ongoing project)
+
+The portfolio that showcase my work.
+
+- `nextjs`
+- `tailwindcss`
+
 ### Home NAS and VPN
 
 Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. In addition, I set up a VPN on a Raspberry Pi to be able to access my local network and the NAS from the outside.
@@ -21,13 +28,6 @@ Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. I
 - Provisioning and configuration using `Ansible`
 - Deploying and managing apps using `Docker`
 - Testing using `Vagrant` and `VirtualBox`
-
-### Portfolio website (Ongoing project)
-
-The portfolio that showcase my work.
-
-- `nextjs`
-- `tailwindcss`
 
 
 [^stats]: *Please note that this gives an indication on how often I use Github and that this does not reflect the quality of my contributions or the amount of work done*
