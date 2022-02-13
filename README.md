@@ -19,6 +19,17 @@ The portfolio that showcase my work.
 - `nextjs`
 - `tailwindcss`
 
+
+### Discord music bot (Ongoing project)
+
+My custom Discord bot to play music in vocal channels.  
+Based on my starter: Discord bot with commands.
+
+- `Docker`
+- `Nodejs`
+- Unit testing using `jest`
+
+
 ### Home NAS and VPN
 
 Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. In addition, I set up a VPN on a Raspberry Pi to be able to access my local network and the NAS from the outside.
