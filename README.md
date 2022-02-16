@@ -14,7 +14,8 @@ I'm interested in creating new things, improving the world and the human conditi
 
 ### Portfolio website (Ongoing project)
 
-The portfolio that showcase my work.
+The portfolio that showcase my work.  
+Tech stack:
 
 - `nextjs`
 - `tailwindcss`
@@ -25,8 +26,8 @@ The portfolio that showcase my work.
 My custom Discord bot to play music in vocal channels.  
 Based on my starter: Discord bot with commands.
 
-- `Docker`
-- `Nodejs`
+- Development and testing in `Docker` containers
+- Server using `Nodejs` and `Discord.js`
 - Unit testing using `jest`
 
 
