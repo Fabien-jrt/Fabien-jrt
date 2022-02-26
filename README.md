@@ -43,3 +43,8 @@ Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. I
 
 
 [^stats]: *Please note that this gives an indication on how often I use Github and that this does not reflect the quality of my contributions or the amount of work done*
+
+<!--
+### Restic automation
+Automation of my restic backups using python scripting.
+-->
