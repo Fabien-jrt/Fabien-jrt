@@ -4,32 +4,20 @@
 
 My name is Fabien, I'm a computer science student & developer in France 🇫🇷 !
 
-I'm interested in creating new things, improving the world and the human condition.
-
-## Stats[^stats]
-
-![Fabien's githubstats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=true)
-
 ## Side projects
 
 ### Portfolio website (Ongoing project)
 
 The portfolio that showcase my work.  
-Tech stack:
+Using `Asciidoc` and custom CSS.
 
-- `nextjs`
-- `tailwindcss`
+### Discord bot starter
 
-
-### Discord music bot (Ongoing project)
-
-My custom Discord bot to play music in vocal channels.  
-Based on my starter: Discord bot with commands.
+A starter for Discord bots with slash commands.  
 
 - Development and testing in `Docker` containers
 - Server using `Nodejs` and `Discord.js`
 - Unit testing using `jest`
-
 
 ### Home NAS and VPN
 
@@ -41,10 +29,8 @@ Creation of a NAS consisting of a recycled mini PC with 2 new 4TB hard drives. I
 - Deploying and managing apps using `Docker`
 - Testing using `Vagrant` and `VirtualBox`
 
+## Stats[^stats]
+
+![Fabien's githubstats](https://github-readme-stats.vercel.app/api?username=Fabien-jrt&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide_border=true)
 
 [^stats]: *Please note that this gives an indication on how often I use Github and that this does not reflect the quality of my contributions or the amount of work done*
-
-<!--
-### Restic automation
-Automation of my restic backups using python scripting.
--->
