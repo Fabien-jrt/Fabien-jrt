@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Fabien-jrt&color=81a1c1)
 
-My name is Fabien, I'm a computer science student & developer in France 🇫🇷 !
+My name is Fabien, I'm a computer science student and developer in France 🇫🇷 !
 
 ## Side projects
 
